@@ -1,0 +1,10 @@
+trap@fiz.com,Steel scimitar,Steel longsword,Steel 2h sword 
+trap1@fiz.com,Steel mace,Steel med helm,Steel full helm
+trap3@fiz.com,Iron kiteshield,Iron platebody,Iron platelegs
+trap5@fiz.com,Iron full helm,Iron med helm,Iron mace
+trap6@fiz.com,Steel chainbody,Iron 2h sword,Iron warhammer
+trap7@fiz.com,Steel scimitar,Steel longsword,Steel 2h sword
+trap8@fiz.com,Steel mace,Steel med helm,Steel full helm
+trap9@fiz.com,Iron kiteshield,Iron platebody,Iron platelegs
+trap10@fiz.com,Iron full helm,Iron med helm,Iron mace
+trap11@fiz.com,Steel chainbody,Iron 2h sword,Iron warhammer

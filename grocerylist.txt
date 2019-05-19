@@ -14,3 +14,12 @@ trap14@fiz.com,Steel scimitar,Steel longsword,Steel 2h
 trap15@fiz.com,Steel mace,Steel med helm,Steel full helm
 trap16@fiz.com,Iron kiteshield,Iron platebody,Iron platelegs
 trap17@fiz.com,Steel platebody,Mithril dagger,Mithril scimitar
+trap18@fiz.com,Mithril med helm,Mithril full helm,Mithril shield
+trap19@fiz.com,Steel 2h,Steel scimitar,Steel longsword
+trap20@fiz.com,Iron platebody,Iron platelegs,Iron chainbody
+trap21@fiz.com,Iron kiteshield,Steel full helm,Iron full helm
+trap22@fiz.com,Steel platelegs,Steel med helm,Steel shield
+trap23@fiz.com,Steel 2h,Steel scimitar,Steel longsword
+trap24@fiz.com,Iron platebody,Iron platelegs,Iron chainbody
+trap25@fiz.com,Iron kiteshield,Steel full helm,Iron full helm
+trap26@fiz.com,Steel platelegs,Steel med helm,Steel shield

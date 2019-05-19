@@ -8,3 +8,9 @@ trap8@fiz.com,Steel mace,Steel med helm,Steel full helm
 trap9@fiz.com,Iron kiteshield,Iron platebody,Iron platelegs
 trap10@fiz.com,Iron full helm,Iron med helm,Iron mace
 trap11@fiz.com,Steel chainbody,Iron 2h,Iron warhammer
+trap12@fiz.com,Iron full helm,Iron med helm,Iron mace
+trap13@fiz.com,Steel chainbody,Iron 2h,Iron full helm
+trap14@fiz.com,Steel scimitar,Steel longsword,Steel 2h
+trap15@fiz.com,Steel mace,Steel med helm,Steel full helm
+trap16@fiz.com,Iron kiteshield,Iron platebody,Iron platelegs
+trap17@fiz.com,Steel platebody,Mithril dagger,Mithril scimitar

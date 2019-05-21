@@ -23,13 +23,3 @@ trap23@fiz.com,Iron med helm,Steel longsword,Steel 2h
 trap24@fiz.com,Iron platelegs,Iron kiteshield,Iron platebody
 trap25@fiz.com,Mithril full helm,Mithril med helm,Mithril scimitar
 trap26@fiz.com,Mithril dagger,Steel platebody,Steel chainbody
-
-
-
-Steel scimitar,Steel mace,Steel med helm
-Iron med helm,Steel longsword,Steel 2h
-Steel full helm,Iron full helm,Steel chainbody
-Iron platelegs,Iron kiteshield,Iron platebody
-Iron 2h,Steel platelegs,Steel 2h
-Mithril full helm,Mithril med helm,Mithril scimitar
-Mithril dagger,Steel platebody,Steel chainbody

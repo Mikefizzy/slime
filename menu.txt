@@ -36,3 +36,4 @@ Steel med helm,5
 Gold bar,5
 Iron kiteshield,5
 Maple logs,10
+Hardleather body,10

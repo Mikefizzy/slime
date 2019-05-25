@@ -46,4 +46,4 @@ trap44@fiz.com,Steel scimitar,Steel kite,Steel battleaxe
 trap45@fiz.com,Iron scimitar,Steel longsword,Steel 2h
 trap46@fiz.com,Steel full helm,Iron full helm,Steel axe
 trap47@fiz.com,Iron platelegs,Iron kiteshield,Iron platebody
-trap483@fiz.com,Iron 2h,Steel platelegs,Mithril axe
+trap48@fiz.com,Iron 2h,Steel platelegs,Mithril axe

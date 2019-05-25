@@ -1,34 +1,34 @@
-trap@fiz.com,Steel scimitar,Steel kite,Steel med helm
-trap1@fiz.com,Iron med helm,Steel longsword,Steel 2h
-trap3@fiz.com,Steel full helm,Iron full helm,Steel chainbody
+trap@fiz.com,Steel scimitar,Steel kite,Steel battleaxe
+trap1@fiz.com,Iron scimitar,Steel longsword,Steel 2h
+trap3@fiz.com,Steel full helm,Iron full helm,Steel axe
 trap5@fiz.com,Iron platelegs,Iron kiteshield,Iron platebody
-trap6@fiz.com,Iron 2h,Steel platelegs,Steel sq
-trap7@fiz.com,Steel scimitar,Steel kite,Steel med helm
-trap8@fiz.com,Iron med helm,Steel longsword,Steel 2h
-trap9@fiz.com,Steel full helm,Iron full helm,Steel chainbody
+trap6@fiz.com,Iron 2h,Steel platelegs,Mithril axe
+trap7@fiz.com,Steel scimitar,Steel kite,Steel battleaxe
+trap8@fiz.com,Iron scimitar,Steel longsword,Steel 2h
+trap9@fiz.com,Steel full helm,Iron full helm,Steel axe
 trap10@fiz.com,Iron platelegs,Iron kiteshield,Iron platebody
-trap11@fiz.com,Iron 2h,Steel platelegs,Steel sq
-trap12@fiz.com,Steel scimitar,Steel kite,Steel med helm
-trap13@fiz.com,Iron med helm,Steel longsword,Steel 2h
-trap14@fiz.com,Steel full helm,Iron full helm,Steel chainbody
+trap11@fiz.com,Iron 2h,Steel platelegs,Mithril axe
+trap12@fiz.com,Steel scimitar,Steel kite,Steel battleaxe
+trap13@fiz.com,Iron scimitar,Steel longsword,Steel 2h
+trap14@fiz.com,Steel full helm,Iron full helm,Steel axe
 trap15@fiz.com,Iron platelegs,Iron kiteshield,Iron platebody
-trap16@fiz.com,Iron 2h,Steel platelegs,Steel sq
-trap17@fiz.com,Steel scimitar,Steel kite,Steel med helm
-trap18@fiz.com,Iron med helm,Steel longsword,Steel 2h
-trap19@fiz.com,Steel full helm,Iron full helm,Steel chainbody
+trap16@fiz.com,Iron 2h,Steel platelegs,Mithril axe
+trap17@fiz.com,Steel scimitar,Steel kite,Steel battleaxe
+trap18@fiz.com,Iron scimitar,Steel longsword,Steel 2h
+trap19@fiz.com,Steel full helm,Iron full helm,Steel axe
 trap20@fiz.com,Iron platelegs,Iron kiteshield,Iron platebody
-trap21@fiz.com,Iron 2h,Steel platelegs,Steel sq
-trap22@fiz.com,Steel scimitar,Steel kite,Steel med helm
-trap23@fiz.com,Iron med helm,Steel longsword,Steel 2h
-trap24@fiz.com,Steel full helm,Iron full helm,Steel chainbody
+trap21@fiz.com,Iron 2h,Steel platelegs,Mithril axe
+trap22@fiz.com,Steel scimitar,Steel kite,Steel battleaxe
+trap23@fiz.com,Iron scimitar,Steel longsword,Steel 2h
+trap24@fiz.com,Steel full helm,Iron full helm,Steel axe
 trap25@fiz.com,Iron platelegs,Iron kiteshield,Iron platebody
-trap26@fiz.com,Iron 2h,Steel platelegs,Steel sq
-trap27@fiz.com,Steel scimitar,Steel kite,Steel med helm
-trap28@fiz.com,Iron med helm,Steel longsword,Steel 2h
-trap29@fiz.com,Steel full helm,Iron full helm,Steel chainbody
+trap26@fiz.com,Iron 2h,Steel platelegs,Mithril axe
+trap27@fiz.com,Steel scimitar,Steel kite,Steel battleaxe
+trap28@fiz.com,Iron scimitar,Steel longsword,Steel 2h
+trap29@fiz.com,Steel full helm,Iron full helm,Steel axe
 trap30@fiz.com,Iron platelegs,Iron kiteshield,Iron platebody
-trap31@fiz.com,Iron 2h,Steel platelegs,Steel sq
-trap32@fiz.com,Steel scimitar,Steel kite,Steel med helm
-trap33@fiz.com,Iron med helm,Steel longsword,Steel 2h
-trap34@fiz.com,Steel full helm,Iron full helm,Steel chainbody
+trap31@fiz.com,Iron 2h,Steel platelegs,Mithril axe
+trap32@fiz.com,Steel scimitar,Steel kite,Steel battleaxe
+trap33@fiz.com,Iron scimitar,Steel longsword,Steel 2h
+trap34@fiz.com,Steel full helm,Iron full helm,Steel axe
 trap35@fiz.com,Iron platelegs,Iron kiteshield,Iron platebody

@@ -10,11 +10,15 @@ Maple longbow,5
 Gold necklace,5
 Gold ring,5
 Gold amulet (u),5
+Mithril axe,5
+Steel axe,5
 Gold amulet,5
 Steel 2h sword,5
 Iron 2h sword,5
+Iron scimitar,5
 Steel mace,5
 Steel chainbody,5
+Steel battleaxe,5
 Steel warhammer,5
 Steel longsword,5
 Steel scimitar,5

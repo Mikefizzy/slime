@@ -23,6 +23,7 @@ Steel warhammer,5
 Steel longsword,5
 Steel scimitar,5
 Steel sq shield,5
+Steel kiteshield
 Iron mace,5
 Iron med helm,5
 Iron platebody,5

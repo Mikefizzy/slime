@@ -6,6 +6,13 @@ Emerald necklace,1
 Ruby necklace,1
 Emerald necklace,1
 Steel platebody,1
+Adamant full helm,1
+Mithril sq shield,1
+Mithril kiteshield,1
+Mithril battleaxe,1
+Mithril longsword,1
+Mithril sword,1
+Adamant dagger,1
 Maple longbow,5
 Gold necklace,5
 Gold ring,5

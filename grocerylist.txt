@@ -51,4 +51,4 @@ stack@fiz.com,Adamant full helm,Mithril full helm,Steel platebody
 stack1@fiz.com,Adamant med helm,Mithril med helm,Emerald necklace
 stack2@fiz.com,Adamant dagger,Mithril dagger,Ruby necklace
 stack3@fiz.com,Adamant sq shield,Mithril sq shield,Mithril kiteshield
-stack4@fiz.com,Mithril battleaxe,Mithril longsword, Mithril sword
+stack4@fiz.com,Mithril battleaxe,Mithril longsword,Mithril sword

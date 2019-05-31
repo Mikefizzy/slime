@@ -52,3 +52,11 @@ stack1@fiz.com,Adamant med helm,Mithril med helm,Emerald necklace
 stack2@fiz.com,Adamant dagger,Mithril dagger,Ruby necklace
 stack3@fiz.com,Adamant sq shield,Mithril sq shield,Mithril kiteshield
 stack4@fiz.com,Mithril battleaxe,Mithril longsword,Mithril sword
+stack5@fiz.com,Adamant med helm,Mithril med helm,Emerald necklace
+stack6@fiz.com,Adamant dagger,Mithril dagger,Ruby necklace
+stack7@fiz.com,Adamant sq shield,Mithril sq shield,Mithril kiteshield
+stack8@fiz.com,Mithril battleaxe,Mithril longsword,Mithril sword
+stack9@fiz.com,Adamant med helm,Mithril med helm,Emerald necklace
+stack10@fiz.com,Adamant dagger,Mithril dagger,Ruby necklace
+stack11@fiz.com,Adamant sq shield,Mithril sq shield,Mithril kiteshield
+stack12@fiz.com,Mithril battleaxe,Mithril longsword,Mithril sword

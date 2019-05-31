@@ -7,6 +7,7 @@ Ruby necklace,1
 Emerald necklace,1
 Steel platebody,1
 Adamant full helm,1
+Adamant sq shield,1
 Mithril sq shield,1
 Mithril kiteshield,1
 Mithril battleaxe,1

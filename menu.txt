@@ -1,5 +1,5 @@
 Mithril med helm,1
-Mithril dagger,1
+Mithril dagger,5
 Mithril scimitar,1
 Mithril full helm,1
 Emerald necklace,1

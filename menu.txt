@@ -47,3 +47,12 @@ Gold bar,5
 Iron kiteshield,5
 Maple logs,10
 Hardleather body,10
+Rune javelin heads,5
+Yew shortbow,5
+Dragonstone bolts (e),5
+Rune arrow,5
+Dragonstone bolt tips,5
+Yew longbow,5
+Rune javelin,5
+Yew longbow (u),5
+Soul rune,5

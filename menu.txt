@@ -52,7 +52,6 @@ Yew shortbow,5
 Dragonstone bolts (e),5
 Rune arrow,5
 Dragonstone bolt tips,5
-Yew longbow,5
 Rune javelin,5
 Yew longbow (u),5
 Soul rune,5

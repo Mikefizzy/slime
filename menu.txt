@@ -57,3 +57,5 @@ Rune javelin,5
 Yew longbow (u),5
 Soul rune,5
 Amethyst arrow,5
+Maple longbow (u)
+Antifire potion(3)

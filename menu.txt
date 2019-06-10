@@ -58,3 +58,5 @@ Soul rune,5
 Amethyst arrow,5
 Maple longbow (u),5
 Antifire potion(3),5
+Opal amulet,1
+Magic longbow,1

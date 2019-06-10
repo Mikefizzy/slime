@@ -16,6 +16,7 @@ Mithril sword,1
 Adamant dagger,1
 Adamant med helm,1
 Maple longbow,5
+Coif,5
 Gold necklace,5
 Gold ring,5
 Gold amulet (u),5
@@ -61,3 +62,4 @@ Antifire potion(3),5
 Opal amulet,1
 Magic longbow,1
 Gold bracelet,5
+Emerald bracelet,1

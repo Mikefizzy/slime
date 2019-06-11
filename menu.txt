@@ -63,3 +63,4 @@ Opal amulet,1
 Magic longbow,1
 Gold bracelet,5
 Emerald bracelet,1
+Green d'hide vamb,1

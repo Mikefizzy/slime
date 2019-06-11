@@ -1,46 +1,46 @@
-trap@fiz.com,Steel platebody,Green d'hide vamb,Mithril kiteshieldbody
+trap@fiz.com,Steel platebody,Green d'hide vamb,Mithril kiteshield
 trap1@fiz.com,Coif,Hardleather body,Iron platebody
 trap2@fiz.com,Coif,Hardleather body,Iron platebody
 trap3@fiz.com,Coif,Hardleather body,Iron platebody
 trap4@fiz.com,Coif,Hardleather body,Iron platebody
 trap5@fiz.com,Coif,Hardleather body,Iron platebody
-trap6@fiz.com,Steel platebody,Green d'hide vamb,Mithril kiteshieldbody
+trap6@fiz.com,Steel platebody,Green d'hide vamb,Mithril kiteshield
 trap7@fiz.com,Coif,Hardleather body,Iron platebody
 trap8@fiz.com,Coif,Hardleather body,Iron platebody
 trap9@fiz.com,Coif,Hardleather body,Iron platebody
 trap10@fiz.com,Coif,Hardleather body,Iron platebody
 trap11@fiz.com,Coif,Hardleather body,Iron platebody
-trap12@fiz.com,Steel platebody,Green d'hide vamb,Mithril kiteshieldbody
+trap12@fiz.com,Steel platebody,Green d'hide vamb,Mithril kiteshield
 trap13@fiz.com,Coif,Hardleather body,Iron platebody
 trap14@fiz.com,Coif,Hardleather body,Iron platebody
 trap15@fiz.com,Coif,Hardleather body,Iron platebody
 trap16@fiz.com,Coif,Hardleather body,Iron platebody
 trap17@fiz.com,Coif,Hardleather body,Iron platebody
-trap18@fiz.com,Steel platebody,Green d'hide vamb,Mithril kiteshieldbody
+trap18@fiz.com,Steel platebody,Green d'hide vamb,Mithril kiteshield
 trap19@fiz.com,Coif,Hardleather body,Iron platebody
 trap20@fiz.com,Coif,Hardleather body,Iron platebody
 trap21@fiz.com,Coif,Hardleather body,Iron platebody
 trap22@fiz.com,Coif,Hardleather body,Iron platebody
 trap23@fiz.com,Coif,Hardleather body,Iron platebody
-trap24@fiz.com,Steel platebody,Green d'hide vamb,Mithril kiteshieldbody
+trap24@fiz.com,Steel platebody,Green d'hide vamb,Mithril kiteshield
 trap25@fiz.com,Coif,Hardleather body,Iron platebody
 trap26@fiz.com,Coif,Hardleather body,Iron platebody
 trap27@fiz.com,Coif,Hardleather body,Iron platebody
 trap28@fiz.com,Coif,Hardleather body,Iron platebody
 trap29@fiz.com,Coif,Hardleather body,Iron platebody
-trap30@fiz.com,Steel platebody,Green d'hide vamb,Mithril kiteshieldbody
+trap30@fiz.com,Steel platebody,Green d'hide vamb,Mithril kiteshield
 trap31@fiz.com,Coif,Hardleather body,Iron platebody
 trap32@fiz.com,Coif,Hardleather body,Iron platebody
 trap33@fiz.com,Coif,Hardleather body,Iron platebody
 trap34@fiz.com,Coif,Hardleather body,Iron platebody
 trap35@fiz.com,Coif,Hardleather body,Iron platebody
-trap36@fiz.com,Steel platebody,Green d'hide vamb,Mithril kiteshieldbody
+trap36@fiz.com,Steel platebody,Green d'hide vamb,Mithril kiteshield
 trap37@fiz.com,Coif,Hardleather body,Iron platebody
 trap38@fiz.com,Coif,Hardleather body,Iron platebody
 trap39@fiz.com,Coif,Hardleather body,Iron platebody
 trap40@fiz.com,Coif,Hardleather body,Iron platebody
 trap41@fiz.com,Coif,Hardleather body,Iron platebody
-trap42@fiz.com,Steel platebody,Green d'hide vamb,Mithril kiteshieldbody
+trap42@fiz.com,Steel platebody,Green d'hide vamb,Mithril kiteshield
 trap43@fiz.com,Coif,Hardleather body,Iron platebody
 trap44@fiz.com,Coif,Hardleather body,Iron platebody
 trap45@fiz.com,Coif,Hardleather body,Iron platebody

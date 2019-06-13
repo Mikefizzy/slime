@@ -47,7 +47,6 @@ trap45@fiz.com,Coif,Hardleather body,Iron platebody
 trap46@fiz.com,Coif,Hardleather body,Iron platebody
 trap47@fiz.com,Coif,Hardleather body,Iron platebody
 trap48@fiz.com,Coif,Hardleather body,Iron platebody
-
 stack1@fiz.com,Coif,Hardleather body,Iron platebody
 stack2@fiz.com,Coif,Hardleather body,Iron platebody
 stack3@fiz.com,Coif,Hardleather body,Iron platebody

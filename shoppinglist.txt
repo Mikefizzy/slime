@@ -14,7 +14,4 @@ Maple longbow,14000
 Maple longbow (u),10000
 Yew longbow,18000
 Yew shortbow,18000
-Magic longbow,18000
-Emerald bracelet,10000
-Emerald necklace,10000
 Soul rune,10000

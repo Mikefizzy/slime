@@ -1,0 +1,20 @@
+Rune arrow,11000
+Amethyst arrow,11000
+Rune javelin heads,10000
+Rune javelin,11000
+Dragonstone bolts (e),11000
+Dragonstone bolt tips,11000
+Gold necklace,18000
+Gold ring,18000
+Gold bracelet,18000
+Gold amulet,18000
+Gold amulet (u),18000
+Gold bar,10000
+Maple longbow,14000
+Maple longbow (u),10000
+Yew longbow,18000
+Yew shortbow,18000
+Magic longbow,18000
+Emerald bracelet,10000
+Emerald necklace,10000
+Soul rune,10000

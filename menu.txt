@@ -38,13 +38,13 @@ Steel kiteshield,1
 Iron mace,5
 Iron med helm,5
 Iron platebody,1
-Iron platelegs,5
+Iron platelegs,1
 Iron chainbody,5
 Iron full helm,5
 Iron warhammer,5
 Steel full helm,1
 Steel platelegs,1
-Steel med helm,5
+Steel med helm,1
 Gold bar,5
 Iron kiteshield,5
 Maple logs,10

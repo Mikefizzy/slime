@@ -13,6 +13,7 @@ Mithril kiteshield,1
 Mithril battleaxe,1
 Mithril longsword,1
 Mithril sword,1
+Mithril 2h sword,1
 Adamant dagger,1
 Adamant med helm,1
 Maple longbow,5

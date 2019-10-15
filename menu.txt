@@ -36,7 +36,7 @@ Steel sq shield,1
 Steel kiteshield,1
 Iron mace,5
 Iron med helm,5
-Iron platebody,5
+Iron platebody,1
 Iron platelegs,5
 Iron chainbody,5
 Iron full helm,5

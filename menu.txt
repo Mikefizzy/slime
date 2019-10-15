@@ -32,8 +32,8 @@ Steel battleaxe,5
 Steel warhammer,5
 Steel longsword,5
 Steel scimitar,5
-Steel sq shield,5
-Steel kiteshield,5
+Steel sq shield,1
+Steel kiteshield,1
 Iron mace,5
 Iron med helm,5
 Iron platebody,5
@@ -41,8 +41,8 @@ Iron platelegs,5
 Iron chainbody,5
 Iron full helm,5
 Iron warhammer,5
-Steel full helm,5
-Steel platelegs,5
+Steel full helm,1
+Steel platelegs,1
 Steel med helm,5
 Gold bar,5
 Iron kiteshield,5

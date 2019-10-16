@@ -16,7 +16,7 @@ Mithril sword,1
 Mithril 2h sword,1
 Adamant dagger,1
 Adamant med helm,1
-Maple longbow,5
+Maple longbow,1
 Coif,5
 Gold necklace,5
 Gold ring,5

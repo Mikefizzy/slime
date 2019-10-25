@@ -18,6 +18,16 @@ trap17@fiz.com,Steel med helm,Mithril med helm,Mithril sword
 trap18@fiz.com,Steel platelegs,Green d'hide vamb,Iron platelegs
 trap19@fiz.com,Steel platebody,Mithril 2h,Iron platebody
 trap20@fiz.com,Mithril kite,Mithril sq shield,Steel sq shield
+trap21@fiz.com,Mithril full helm,Mithril scimitar,Steel kite
+trap22@fiz.com,Steel med helm,Mithril med helm,Mithril sword
+trap23@fiz.com,Steel platelegs,Green d'hide vamb,Iron platelegs
+trap24@fiz.com,Steel platebody,Mithril 2h,Iron platebody
+trap25@fiz.com,Mithril kite,Mithril sq shield,Steel sq shield
+trap26@fiz.com,Mithril full helm,Mithril scimitar,Steel kite
+trap27@fiz.com,Steel med helm,Mithril med helm,Mithril sword
+trap28@fiz.com,Steel platelegs,Green d'hide vamb,Iron platelegs
+trap29@fiz.com,Steel platebody,Mithril 2h,Iron platebody
+trap20@fiz.com,Mithril kite,Mithril sq shield,Steel sq shield
 trap31@fiz.com,Mithril full helm,Mithril scimitar,Steel kite
 trap32@fiz.com,Steel med helm,Mithril med helm,Mithril sword
 trap33@fiz.com,Steel platelegs,Green d'hide vamb,Iron platelegs
@@ -36,14 +46,3 @@ trap45@fiz.com,Mithril kite,Mithril sq shield,Steel sq shield
 trap46@fiz.com,Mithril full helm,Mithril scimitar,Steel kite
 trap47@fiz.com,Steel med helm,Mithril med helm,Mithril sword
 trap48@fiz.com,Steel platelegs,Green d'hide vamb,Iron platelegs
-trap49@fiz.com,Steel platebody,Mithril 2h,Iron platebody
-trap50@fiz.com,Mithril kite,Mithril sq shield,Steel sq shield
-trap51@fiz.com,Mithril full helm,Mithril scimitar,Steel kite
-trap52@fiz.com,Steel med helm,Mithril med helm,Mithril sword
-trap53@fiz.com,Steel platelegs,Green d'hide vamb,Iron platelegs
-trap54@fiz.com,Steel platebody,Mithril 2h,Iron platebody
-trap55@fiz.com,Mithril kite,Mithril sq shield,Steel sq shield
-trap56@fiz.com,Mithril full helm,Mithril scimitar,Steel kite
-trap57@fiz.com,Steel med helm,Mithril med helm,Mithril sword
-trap58@fiz.com,Steel platelegs,Green d'hide vamb,Iron platelegs
-trap59@fiz.com,Steel platebody,Mithril 2h,Iron platebody

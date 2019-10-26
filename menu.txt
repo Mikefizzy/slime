@@ -18,12 +18,12 @@ Adamant dagger,1
 Adamant med helm,1
 Maple longbow,1
 Coif,5
-Gold necklace,5
-Gold ring,5
-Gold amulet (u),5
+Gold necklace,1
+Gold ring,1
+Gold amulet (u),1
 Mithril axe,5
 Steel axe,5
-Gold amulet,5
+Gold amulet,1
 Steel 2h sword,5
 Iron 2h sword,5
 Iron scimitar,5
@@ -45,7 +45,7 @@ Iron warhammer,5
 Steel full helm,1
 Steel platelegs,1
 Steel med helm,1
-Gold bar,5
+Gold bar,1
 Iron kiteshield,5
 Maple logs,10
 Hardleather body,10
@@ -62,6 +62,6 @@ Maple longbow (u),5
 Antifire potion(3),5
 Opal amulet,1
 Magic longbow,1
-Gold bracelet,5
+Gold bracelet,1
 Emerald bracelet,1
 Green d'hide vamb,1

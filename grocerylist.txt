@@ -27,7 +27,7 @@ trap26@fiz.com,Mithril full helm,Mithril scimitar,Steel kite
 trap27@fiz.com,Steel med helm,Mithril med helm,Mithril sword
 trap28@fiz.com,Steel platelegs,Green d'hide vamb,Iron platelegs
 trap29@fiz.com,Steel platebody,Mithril 2h,Iron platebody
-trap20@fiz.com,Mithril kite,Mithril sq shield,Steel sq shield
+trap30@fiz.com,Mithril kite,Mithril sq shield,Steel sq shield
 trap31@fiz.com,Mithril full helm,Mithril scimitar,Steel kite
 trap32@fiz.com,Steel med helm,Mithril med helm,Mithril sword
 trap33@fiz.com,Steel platelegs,Green d'hide vamb,Iron platelegs

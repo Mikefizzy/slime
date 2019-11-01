@@ -4,7 +4,6 @@ Mithril scimitar,1
 Mithril full helm,1
 Emerald necklace,5
 Ruby necklace,1
-Emerald necklace,1
 Steel platebody,1
 Adamant full helm,1
 Adamant sq shield,1

@@ -1,48 +1,48 @@
-trap1@fiz.com,Steel kite,Green d'hide vamb,Mithril scimitar
-trap2@fiz.com,Steel platebody,Mithril 2h,Iron platebody
-trap3@fiz.com,Mithril kite,Mithril sq shield,Steel sq shield
-trap4@fiz.com,Steel kite,Green d'hide vamb,Mithril scimitar
-trap5@fiz.com,Steel platebody,Mithril 2h,Iron platebody
-trap6@fiz.com,Mithril kite,Mithril sq shield,Steel sq shield
-trap7@fiz.com,Steel kite,Green d'hide vamb,Mithril scimitar
-trap8@fiz.com,Steel platebody,Mithril 2h,Iron platebody
-trap9@fiz.com,Mithril kite,Mithril sq shield,Steel sq shield
-trap10@fiz.com,Steel kite,Green d'hide vamb,Mithril scimitar
-trap11@fiz.com,Steel platebody,Mithril 2h,Iron platebody
-trap12@fiz.com,Mithril kite,Mithril sq shield,Steel sq shield
-trap13@fiz.com,Steel kite,Green d'hide vamb,Mithril scimitar
-trap14@fiz.com,Steel platebody,Mithril 2h,Iron platebody
-trap15@fiz.com,Mithril kite,Mithril sq shield,Steel sq shield
-trap16@fiz.com,Steel kite,Green d'hide vamb,Mithril scimitar
-trap17@fiz.com,Steel platebody,Mithril 2h,Iron platebody
-trap18@fiz.com,Mithril kite,Mithril sq shield,Steel sq shield
-trap19@fiz.com,Steel kite,Green d'hide vamb,Mithril scimitar
-trap20@fiz.com,Steel platebody,Mithril 2h,Iron platebody
-trap21@fiz.com,Mithril kite,Mithril sq shield,Steel sq shield
-trap22@fiz.com,Steel kite,Green d'hide vamb,Mithril scimitar
-trap23@fiz.com,Steel platebody,Mithril 2h,Iron platebody
-trap24@fiz.com,Mithril kite,Mithril sq shield,Steel sq shield
-trap25@fiz.com,Steel kite,Green d'hide vamb,Mithril scimitar
-trap26@fiz.com,Steel platebody,Mithril 2h,Iron platebody
-trap27@fiz.com,Mithril kite,Mithril sq shield,Steel sq shield
-trap28@fiz.com,Steel kite,Green d'hide vamb,Mithril scimitar
-trap29@fiz.com,Steel platebody,Mithril 2h,Iron platebody
-trap30@fiz.com,Mithril kite,Mithril sq shield,Steel sq shield
-trap31@fiz.com,Steel kite,Green d'hide vamb,Mithril scimitar
-trap32@fiz.com,Steel platebody,Mithril 2h,Iron platebody
-trap33@fiz.com,Mithril kite,Mithril sq shield,Steel sq shield
-trap34@fiz.com,Steel kite,Green d'hide vamb,Mithril scimitar
-trap35@fiz.com,Steel platebody,Mithril 2h,Iron platebody
-trap36@fiz.com,Mithril kite,Mithril sq shield,Steel sq shield
-trap37@fiz.com,Steel kite,Green d'hide vamb,Mithril scimitar
-trap38@fiz.com,Steel platebody,Mithril 2h,Iron platebody
-trap39@fiz.com,Mithril kite,Mithril sq shield,Steel sq shield
-trap40@fiz.com,Steel kite,Green d'hide vamb,Mithril scimitar
-trap41@fiz.com,Steel platebody,Mithril 2h,Iron platebody
-trap42@fiz.com,Mithril kite,Mithril sq shield,Steel sq shield
-trap43@fiz.com,Steel kite,Green d'hide vamb,Mithril scimitar
-trap44@fiz.com,Steel platebody,Mithril 2h,Iron platebody
-trap45@fiz.com,Mithril kite,Mithril sq shield,Steel sq shield
-trap46@fiz.com,Steel kite,Green d'hide vamb,Mithril scimitar
-trap47@fiz.com,Steel platebody,Mithril 2h,Iron platebody
-trap48@fiz.com,Mithril kite,Mithril sq shield,Steel sq shield
+trap1@fiz.com,Mithril platebody,Green d'hide vamb,Steel platebody
+trap2@fiz.com,Mithril platebody,Green d'hide vamb,Steel platebody
+trap3@fiz.com,Mithril platebody,Green d'hide vamb,Steel platebody
+trap4@fiz.com,Mithril platebody,Green d'hide vamb,Steel platebody
+trap5@fiz.com,Mithril platebody,Green d'hide vamb,Steel platebody
+trap6@fiz.com,Mithril platebody,Green d'hide vamb,Steel platebody
+trap7@fiz.com,Mithril platebody,Green d'hide vamb,Steel platebody
+trap8@fiz.com,Mithril platebody,Green d'hide vamb,Steel platebody
+trap9@fiz.com,Mithril platebody,Green d'hide vamb,Steel platebody
+trap10@fiz.com,Mithril platebody,Green d'hide vamb,Steel platebody
+trap11@fiz.com,Mithril platebody,Green d'hide vamb,Steel platebody
+trap12@fiz.com,Mithril platebody,Green d'hide vamb,Steel platebody
+trap13@fiz.com,Mithril platebody,Green d'hide vamb,Steel platebody
+trap14@fiz.com,Mithril platebody,Green d'hide vamb,Steel platebody
+trap15@fiz.com,Mithril platebody,Green d'hide vamb,Steel platebody
+trap16@fiz.com,Mithril platebody,Green d'hide vamb,Steel platebody
+trap17@fiz.com,Mithril platebody,Green d'hide vamb,Steel platebody
+trap18@fiz.com,Mithril platebody,Green d'hide vamb,Steel platebody
+trap19@fiz.com,Mithril platebody,Green d'hide vamb,Steel platebody
+trap20@fiz.com,Mithril platebody,Green d'hide vamb,Steel platebody
+trap21@fiz.com,Mithril platebody,Green d'hide vamb,Steel platebody
+trap22@fiz.com,Mithril platebody,Green d'hide vamb,Steel platebody
+trap23@fiz.com,Mithril platebody,Green d'hide vamb,Steel platebody
+trap24@fiz.com,Mithril platebody,Green d'hide vamb,Steel platebody
+trap25@fiz.com,Mithril platebody,Green d'hide vamb,Steel platebody
+trap26@fiz.com,Mithril platebody,Green d'hide vamb,Steel platebody
+trap27@fiz.com,Mithril platebody,Green d'hide vamb,Steel platebody
+trap28@fiz.com,Mithril platebody,Green d'hide vamb,Steel platebody
+trap29@fiz.com,Mithril platebody,Green d'hide vamb,Steel platebody
+trap30@fiz.com,Mithril platebody,Green d'hide vamb,Steel platebody
+trap31@fiz.com,Mithril platebody,Green d'hide vamb,Steel platebody
+trap32@fiz.com,Mithril platebody,Green d'hide vamb,Steel platebody
+trap33@fiz.com,Mithril platebody,Green d'hide vamb,Steel platebody
+trap34@fiz.com,Mithril platebody,Green d'hide vamb,Steel platebody
+trap35@fiz.com,Mithril platebody,Green d'hide vamb,Steel platebody
+trap36@fiz.com,Mithril platebody,Green d'hide vamb,Steel platebody
+trap37@fiz.com,Mithril platebody,Green d'hide vamb,Steel platebody
+trap38@fiz.com,Mithril platebody,Green d'hide vamb,Steel platebody
+trap39@fiz.com,Mithril platebody,Green d'hide vamb,Steel platebody
+trap40@fiz.com,Mithril platebody,Green d'hide vamb,Steel platebody
+trap41@fiz.com,Mithril platebody,Green d'hide vamb,Steel platebody
+trap42@fiz.com,Mithril platebody,Green d'hide vamb,Steel platebody
+trap43@fiz.com,Mithril platebody,Green d'hide vamb,Steel platebody
+trap44@fiz.com,Mithril platebody,Green d'hide vamb,Steel platebody
+trap45@fiz.com,Mithril platebody,Green d'hide vamb,Steel platebody
+trap46@fiz.com,Mithril platebody,Green d'hide vamb,Steel platebody
+trap47@fiz.com,Mithril platebody,Green d'hide vamb,Steel platebody
+trap48@fiz.com,Mithril platebody,Green d'hide vamb,Steel platebody

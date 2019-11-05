@@ -4,6 +4,7 @@ Mithril scimitar,1
 Mithril full helm,1
 Emerald necklace,5
 Ruby necklace,1
+Ruby bracelet,1
 Steel platebody,1
 Adamant full helm,1
 Adamant sq shield,1
@@ -57,6 +58,8 @@ Yew longbow,5
 Rune javelin,5
 Soul rune,5
 Amethyst arrow,5
+Amethyst javelin heads,5
+Dragon javelin heads,1
 Maple longbow (u),5
 Antifire potion(3),5
 Opal amulet,1

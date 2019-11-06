@@ -9,6 +9,7 @@ Steel platebody,1
 Adamant full helm,1
 Adamant sq shield,1
 Mithril sq shield,1
+Mithril platebody,1
 Mithril kiteshield,1
 Mithril battleaxe,1
 Mithril longsword,1
